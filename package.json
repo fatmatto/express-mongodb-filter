@@ -8,6 +8,10 @@
     "lint": "npx eslint *.js --fix",
     "precommit": "npm run lint && npm run test && npx depcheck"
   },
+  "files": [
+    "index.js",
+    "lib.js"
+  ],
   "author": "Mattia Alfieri <mattialfieri@gmail.com>",
   "license": "MIT",
   "keywords": [
