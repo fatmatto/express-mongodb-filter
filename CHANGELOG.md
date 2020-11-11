@@ -1,0 +1,12 @@
+# 📦 1.1.0 (11 Nov 2020)
+- [4ba28](https://github.com/fatmatto/express-mongodb-filter/commit/4ba28d7407dc22396228a6e47c3179fc673c2a78)  📦 Release 1.1.0
+- [269bf](https://github.com/fatmatto/express-mongodb-filter/commit/269bf630dac610e0b5a9e73c828a6b0e097754f0)  Support the $options operator to use along with $regex
+- [50f08](https://github.com/fatmatto/express-mongodb-filter/commit/50f084b3b37d307749801df96187f3364294a246)  Merge pull request #1 from fatmatto/dependabot/npm_and_yarn/lodash-4.17.19
+- [750dc](https://github.com/fatmatto/express-mongodb-filter/commit/750dc481622abdec9ada859085c3aa1baf51344e)  Bump lodash from 4.17.15 to 4.17.19
+- [7e24d](https://github.com/fatmatto/express-mongodb-filter/commit/7e24d82ead77e0a1c85ce634a6479f2d5e5eb348)  Add release script
+- [1754b](https://github.com/fatmatto/express-mongodb-filter/commit/1754b5df3172c02cdf3a2bc4e72cfe985060d330)  Merge branch 'master' of https://github.com/fatmatto/express-mongodb-filter
+- [4371d](https://github.com/fatmatto/express-mongodb-filter/commit/4371d79df842fe65f5770a87a28fc43d560dfbb2)  Add useful fields to the package.json
+- [aecab](https://github.com/fatmatto/express-mongodb-filter/commit/aecab244ec9b56443b1c6296aa448c0c04e2c47d)  Add useful fields to the package.json
+- [7518d](https://github.com/fatmatto/express-mongodb-filter/commit/7518d79b58e6fc2a5aa508f9a62d11872ae54427)  Update test.yml
+- [fe8d5](https://github.com/fatmatto/express-mongodb-filter/commit/fe8d50dd8abea6d09f90d7372449d25e4741e12f)  Create test.yml
+- [18a9f](https://github.com/fatmatto/express-mongodb-filter/commit/18a9f696eea66db436f80442e46f81352b13f398)  First commit
