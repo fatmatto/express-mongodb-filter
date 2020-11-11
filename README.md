@@ -1,6 +1,6 @@
 ## express-mongodb-filter
 
-ExpressJS middleware that allows expressjs apps to handle custom MongoDB queries sent from the client.
+Custom MongoDB queries through HTTP requests
 
 Please, remember that this middleware applies no security filtering to query parameters, you must sanitize input on your own.
 
@@ -76,7 +76,8 @@ filterMiddleware({
     $lt: true,
     $gte: true,
     $lte: true,
-    $exists: true
+    $exists: true,
+    $options: true
   },
 })
 ```

@@ -11,7 +11,8 @@ const defaultOperators = {
   $lt: true,
   $gte: true,
   $lte: true,
-  $exists: true
+  $exists: true,
+  $options: true
 }
 
 /**
