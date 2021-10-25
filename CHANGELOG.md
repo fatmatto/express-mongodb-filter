@@ -1,3 +1,17 @@
+# 📦 1.1.1 (25 Oct 2021)
+- [dfaa5](https://github.com/fatmatto/express-mongodb-filter/commit/dfaa5309883bfc682880a011950714f5265a0dfb)  📦 Release 1.1.1
+- [bbda8](https://github.com/fatmatto/express-mongodb-filter/commit/bbda8d2051e82ad403676047880065c50f158819)  chore: updated dependencies
+- [715d8](https://github.com/fatmatto/express-mongodb-filter/commit/715d856a266acc790d4f8f25971c10377e538e1e)  Merge pull request #8 from fatmatto/dependabot/npm_and_yarn/path-parse-1.0.7
+- [4aefd](https://github.com/fatmatto/express-mongodb-filter/commit/4aefd635aeef4f679134fc0eaeb3a8f66f891f8a)  Bump path-parse from 1.0.6 to 1.0.7
+- [ce1c2](https://github.com/fatmatto/express-mongodb-filter/commit/ce1c2bef8ba4ea7d7d9bb231e2242feda52a5e7c)  Merge pull request #6 from fatmatto/dependabot/npm_and_yarn/normalize-url-4.5.1
+- [9d9e2](https://github.com/fatmatto/express-mongodb-filter/commit/9d9e2a7391d290a9b1eb7d4a0e84ed088e25325b)  Bump normalize-url from 4.5.0 to 4.5.1
+- [c769f](https://github.com/fatmatto/express-mongodb-filter/commit/c769f8fa47ccbfe3d6546b2fc2f8b32fc2cdb121)  Merge pull request #5 from fatmatto/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+- [7d859](https://github.com/fatmatto/express-mongodb-filter/commit/7d859663ca5b329fe4dd51b854570ef0abf693e9)  Merge pull request #4 from fatmatto/dependabot/npm_and_yarn/lodash-4.17.21
+- [518e2](https://github.com/fatmatto/express-mongodb-filter/commit/518e21d44d25b6ec3a4103b31a2c76080092a400)  Bump hosted-git-info from 2.8.8 to 2.8.9
+- [ac77f](https://github.com/fatmatto/express-mongodb-filter/commit/ac77f2dfb57f689aefdd7a22c56b553974f76f25)  Bump lodash from 4.17.19 to 4.17.21
+- [31c30](https://github.com/fatmatto/express-mongodb-filter/commit/31c30d612d8547f8051f11381a662138287a5178)  Merge pull request #3 from fatmatto/dependabot/npm_and_yarn/y18n-4.0.1
+- [d39bf](https://github.com/fatmatto/express-mongodb-filter/commit/d39bf05e03e671e0002660ecb0ded13c7044d32c)  Bump y18n from 4.0.0 to 4.0.1
+- [6a17c](https://github.com/fatmatto/express-mongodb-filter/commit/6a17c0df02c1a9e589821c9b75b20a00d22e4f00)  📒 Update CHANGELOG
 # 📦 1.1.0 (11 Nov 2020)
 - [4ba28](https://github.com/fatmatto/express-mongodb-filter/commit/4ba28d7407dc22396228a6e47c3179fc673c2a78)  📦 Release 1.1.0
 - [269bf](https://github.com/fatmatto/express-mongodb-filter/commit/269bf630dac610e0b5a9e73c828a6b0e097754f0)  Support the $options operator to use along with $regex
