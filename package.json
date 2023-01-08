@@ -28,7 +28,7 @@
     "url": "https://github.com/fatmatto/express-mongodb-filter/issues"
   },
   "devDependencies": {
-    "ava": "^3.7.0",
+    "ava": "^5.1.0",
     "eslint": "^7.32.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.2",
