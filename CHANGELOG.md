@@ -1,8 +1,18 @@
+# 📦 1.1.2 (12 Jan 2023)
+- [63879](https://github.com/fatmatto/express-mongodb-filter/commit/638797a9f055aead8830b851c54507bf293aca57)  📦 Release 1.1.2
+- [3fb3c](https://github.com/fatmatto/express-mongodb-filter/commit/3fb3c80ba155bc77ec3a24ccfd79c6a5b508e9bd)  chore: update dependencies
+- [93289](https://github.com/fatmatto/express-mongodb-filter/commit/93289ddb6e816033e172602590d92e0f22967810)  Merge pull request #10 from fatmatto/dependabot/npm_and_yarn/json5-1.0.2
+- [ca7c4](https://github.com/fatmatto/express-mongodb-filter/commit/ca7c4f0c87a330c536cfdfa6ec686e0a3655503c)  Bump json5 from 1.0.1 to 1.0.2
+- [af073](https://github.com/fatmatto/express-mongodb-filter/commit/af0736d2108418d3dfa3cd27be483102f334747c)  Merge pull request #7 from fatmatto/dependabot/npm_and_yarn/glob-parent-5.1.2
+- [50670](https://github.com/fatmatto/express-mongodb-filter/commit/50670759c919331a0ce1576d51b41aea36d16cae)  Merge pull request #9 from fatmatto/dependabot/npm_and_yarn/minimist-1.2.6
+- [37a8d](https://github.com/fatmatto/express-mongodb-filter/commit/37a8db09fe8dadcbdb6ea698a209ef3c2e66093a)  Bump minimist from 1.2.5 to 1.2.6
+- [7b39b](https://github.com/fatmatto/express-mongodb-filter/commit/7b39b1a85c6e493454492aae378980d9b85d2062)  📒 Update CHANGELOG
 # 📦 1.1.1 (25 Oct 2021)
 - [dfaa5](https://github.com/fatmatto/express-mongodb-filter/commit/dfaa5309883bfc682880a011950714f5265a0dfb)  📦 Release 1.1.1
 - [bbda8](https://github.com/fatmatto/express-mongodb-filter/commit/bbda8d2051e82ad403676047880065c50f158819)  chore: updated dependencies
 - [715d8](https://github.com/fatmatto/express-mongodb-filter/commit/715d856a266acc790d4f8f25971c10377e538e1e)  Merge pull request #8 from fatmatto/dependabot/npm_and_yarn/path-parse-1.0.7
 - [4aefd](https://github.com/fatmatto/express-mongodb-filter/commit/4aefd635aeef4f679134fc0eaeb3a8f66f891f8a)  Bump path-parse from 1.0.6 to 1.0.7
+- [43e56](https://github.com/fatmatto/express-mongodb-filter/commit/43e564fea45e46601dbbda87cd6bf9b64a430518)  Bump glob-parent from 5.1.1 to 5.1.2
 - [ce1c2](https://github.com/fatmatto/express-mongodb-filter/commit/ce1c2bef8ba4ea7d7d9bb231e2242feda52a5e7c)  Merge pull request #6 from fatmatto/dependabot/npm_and_yarn/normalize-url-4.5.1
 - [9d9e2](https://github.com/fatmatto/express-mongodb-filter/commit/9d9e2a7391d290a9b1eb7d4a0e84ed088e25325b)  Bump normalize-url from 4.5.0 to 4.5.1
 - [c769f](https://github.com/fatmatto/express-mongodb-filter/commit/c769f8fa47ccbfe3d6546b2fc2f8b32fc2cdb121)  Merge pull request #5 from fatmatto/dependabot/npm_and_yarn/hosted-git-info-2.8.9
